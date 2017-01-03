@@ -5,7 +5,6 @@
     <types>
         <members>AuthController</members>
         <members>OAuth</members>
-        <members>OAuthSigner</members>
         <members>OAuthTests</members>
         <members>TestController</members>
         <name>ApexClass</name>
